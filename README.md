@@ -181,39 +181,39 @@ Support for multiple API keys with automatic rotation to maximize daily API call
 
 ### Dark Mode
 <p align="center">
-  <img src="screenshots/dark/1.jpeg" width="250" />
-  <img src="screenshots/dark/2.jpeg" width="250" />
-  <img src="screenshots/dark/3.jpeg" width="250" />
-  <img src="screenshots/dark/4.jpeg" width="250" />
-  <img src="screenshots/dark/5.jpeg" width="250" />
-  <img src="screenshots/dark/6.jpeg" width="250" />
-  <img src="screenshots/dark/7.jpeg" width="250" />
-  <img src="screenshots/dark/8.jpeg" width="250" />
-  <img src="screenshots/dark/9.jpeg" width="250" />
-  <img src="screenshots/dark/10.jpeg" width="250" />
-  <img src="screenshots/dark/11.jpeg" width="250" />
-  <img src="screenshots/dark/12.jpeg" width="250" />
-  <img src="screenshots/dark/13.jpeg" width="250" />
-  <img src="screenshots/dark/14.jpeg" width="250" />
-  <img src="screenshots/dark/15.jpeg" width="250" />
-  <img src="screenshots/dark/16.jpeg" width="250" />
-  <img src="screenshots/dark/17.jpeg" width="250" />
+  <img src="screenshots/dark/D1.jpeg" width="250" />
+  <img src="screenshots/dark/D2.jpeg" width="250" />
+  <img src="screenshots/dark/D3.jpeg" width="250" />
+  <img src="screenshots/dark/D4.jpeg" width="250" />
+  <img src="screenshots/dark/D5.jpeg" width="250" />
+  <img src="screenshots/dark/D6.jpeg" width="250" />
+  <img src="screenshots/dark/D7.jpeg" width="250" />
+  <img src="screenshots/dark/D8.jpeg" width="250" />
+  <img src="screenshots/dark/D9.jpeg" width="250" />
+  <img src="screenshots/dark/D10.jpeg" width="250" />
+  <img src="screenshots/dark/D11.jpeg" width="250" />
+  <img src="screenshots/dark/D12.jpeg" width="250" />
+  <img src="screenshots/dark/D13.jpeg" width="250" />
+  <img src="screenshots/dark/D14.jpeg" width="250" />
+  <img src="screenshots/dark/D15.jpeg" width="250" />
+  <img src="screenshots/dark/D16.jpeg" width="250" />
+  <img src="screenshots/dark/D17.jpeg" width="250" />
 </p>
 
 ### Light Mode
 <p align="center">
-  <img src="screenshots/light/1.jpeg" width="250" />
-  <img src="screenshots/light/2.jpeg" width="250" />
-  <img src="screenshots/light/3.jpeg" width="250" />
-  <img src="screenshots/light/4.jpeg" width="250" />
-  <img src="screenshots/light/5.jpeg" width="250" />
-  <img src="screenshots/light/6.jpeg" width="250" />
-  <img src="screenshots/light/7.jpeg" width="250" />
-  <img src="screenshots/light/8.jpeg" width="250" />
-  <img src="screenshots/light/9.jpeg" width="250" />
-  <img src="screenshots/light/10.jpeg" width="250" />
-  <img src="screenshots/light/11.jpeg" width="250" />
-  <img src="screenshots/light/12.jpeg" width="250" />
+  <img src="screenshots/light/L1.jpeg" width="250" />
+  <img src="screenshots/light/L2.jpeg" width="250" />
+  <img src="screenshots/light/L3.jpeg" width="250" />
+  <img src="screenshots/light/L4.jpeg" width="250" />
+  <img src="screenshots/light/L5.jpeg" width="250" />
+  <img src="screenshots/light/L6.jpeg" width="250" />
+  <img src="screenshots/light/L7.jpeg" width="250" />
+  <img src="screenshots/light/L8.jpeg" width="250" />
+  <img src="screenshots/light/L9.jpeg" width="250" />
+  <img src="screenshots/light/L10.jpeg" width="250" />
+  <img src="screenshots/light/L11.jpeg" width="250" />
+  <img src="screenshots/light/L12.jpeg" width="250" />
 </p>
 
 ---
